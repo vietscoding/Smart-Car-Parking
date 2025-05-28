@@ -1,4 +1,4 @@
-# 🚗 **Smart Parking IoT System Demo | Learning Project** 🚗  
+# 🚗 **Smart Parking IoT System | Learning Project** 🚗
 Discover our innovative Smart Parking IoT System, designed to make parking smarter and more efficient! This project showcases a real-world IoT application built for a seamless parking experience.  
 
 🔑 **Key Features**:  
@@ -8,4 +8,4 @@ Discover our innovative Smart Parking IoT System, designed to make parking smart
 
 💡 **Why This Matters**: Save time, reduce congestion, and experience the power of IoT in everyday life! Perfect for students, IoT enthusiasts, or anyone curious about smart technology.  
 
-📌 **Watch the demo** to see the system in action and learn how we built it using IoT principles!  
+📌 **[Watch the demo](https://youtu.be/PHTeYuSszoE?si=_LL1DKhgCK6nL9wO)** to see the system in action and learn how we built it using IoT principles!  
