@@ -1,2 +1,2 @@
 # Smart-Car-Parking
-Hệ thống IoT mô phỏng bãi đậu xe ô tô (Car Parking Simulation IoT System)
+Hệ thống IoT mô phỏng bãi đậu thông minh dành cho xe ô tô (Car Parking Simulation IoT System)
